@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Is It a Crime",
+  "base_artist": "Sade",
+  "createdAt": "2025-12-30T02:22:38.287063Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Is It a Crime",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/01_Is_It_a_Crime_Sade.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Is It a Crime",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/02_Is_It_a_Crime_Sade.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Is It A Crime\u0000",
+      "artist": "Sade\u0000",
+      "has_synced": true,
+      "path": "select/03_Is_It_A_Crime\u0000_Sade\u0000.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Is It A Crime",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/04_Is_It_A_Crime_Sade.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Is It A Crime",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/05_Is_It_A_Crime_Sade.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Is It a Crime",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/06_Is_It_a_Crime_Sade.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Is It A Crime\u0000",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/07_Is_It_A_Crime\u0000_Sade.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Is It a Crime\u0001\u0001\u0001",
+      "artist": "SADE",
+      "has_synced": true,
+      "path": "select/08_Is_It_a_Crime\u0001\u0001\u0001_SADE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Is It a Crime",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/09_Is_It_a_Crime_Sade.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Is It a Crime",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/10_Is_It_a_Crime_Sade.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Is It a Crime",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/11_Is_It_a_Crime_Sade.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Is It a Crime?",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/12_Is_It_a_Crime_Sade.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Is It a Crime",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/13_Is_It_a_Crime_Sade.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Is It A Crime",
+      "artist": "Sade",
+      "has_synced": false,
+      "path": "select/pl_01_Is_It_A_Crime_Sade.txt"
+    }
+  ]
+}
